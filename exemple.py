@@ -1,0 +1,2 @@
+print("Calculette")
+print("Bonjour")
